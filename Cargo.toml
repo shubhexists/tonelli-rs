@@ -1,6 +1,16 @@
 [package]
 name = "tonelli-rs"
+authors = ["Shubh <shubh622005@gmail.com>"]
+description = "A Rust implementation of the Tonelli-Shanks algorithm for computing square roots modulo a prime"
 version = "0.1.0"
+license = "MIT"
 edition = "2024"
-
-[dependencies]
+repository = "https://github.com/shubhexists/tonelli-rs"
+keywords = [
+    "tonelli-shanks",
+    "square-root",
+    "modular-arithmetic",
+    "cryptography",
+    "number-theory",
+]
+categories = ["algorithms", "cryptography", "science"]
